@@ -7,8 +7,8 @@ com Supabase self-hosted e um MCP server ligado ao Claude.
 
 ```bash
 # 1. Clonar na VPS
-git clone https://github.com/<TEU_USER>/<TEU_REPO>.git
-cd <TEU_REPO>
+git clone https://github.com/dmcad/coolify-and-supabase.git
+cd coolify-and-supabase
 
 # 2. Editar o bloco de configuração no topo do script (domínio, email, etc.)
 nano 01-install-stack.sh
